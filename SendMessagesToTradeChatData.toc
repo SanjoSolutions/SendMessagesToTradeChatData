@@ -1,0 +1,5 @@
+## Title: Send Messages To Trade Chat Data
+## Interface: 100005
+## Dependencies: SendMessagesToTradeChat
+
+SendMessagesToTradeChatData.lua
